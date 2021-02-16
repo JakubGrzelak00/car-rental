@@ -1,0 +1,261 @@
+[
+    {
+        "name": "Opel Tigra",
+        "type": "Sport",
+        "brand": "Opel",
+        "fuelType": "Diesel",
+        "price": 100
+    },
+    {
+        "name": "Tesla Roadster",
+        "type": "Sport",
+        "brand": "Tesla",
+        "fuelType": "Electric",
+        "price": 500
+    },
+    {
+        "name": "BMW I8",
+        "type": "Sport",
+        "brand": "BMW",
+        "fuelType": "Hybrid",
+        "price": 800
+    },
+    {
+        "name": "Audi R8",
+        "type": "Sport",
+        "brand": "Audi",
+        "fuelType": "Petrol",
+        "price": 500
+    },
+    {
+        "name": "Ford Mustang",
+        "type": "Sport",
+        "brand": "Ford",
+        "fuelType": "Petrol",
+        "price": 400
+    },
+    {
+        "name": "Toyota GT86",
+        "type": "Sport",
+        "brand": "Toyota",
+        "fuelType": "Petrol",
+        "price": 400
+    },
+    {
+        "name": "Toyota Yaris",
+        "type": "Mini",
+        "brand": "Toyota",
+        "fuelType": "Petrol",
+        "price": 80
+    },
+    {
+        "name": "Kia Picanto",
+        "type": "Mini",
+        "brand": "Kia",
+        "fuelType": "Diesel",
+        "price": 100
+    },
+    {
+        "name": "Citroen C1",
+        "type": "Mini",
+        "brand": "Citroen",
+        "fuelType": "Petrol",
+        "price": 90
+    },
+    {
+        "name": "Hyundai I10",
+        "type": "Mini",
+        "brand": "Hyundai",
+        "fuelType": "Petrol",
+        "price": 100
+    },
+    {
+        "name": "Fiat Panda",
+        "type": "Mini",
+        "brand": "Fiat",
+        "fuelType": "Petrol",
+        "price": 50
+    },
+    {
+        "name": "Opel Adam",
+        "type": "Mini",
+        "brand": "Opel",
+        "fuelType": "Diesel",
+        "price": 80
+    },
+    {
+        "name": "Renault Twingo",
+        "type": "Mini",
+        "brand": "Renault",
+        "fuelType": "Petrol",
+        "price": 70
+    },
+    {
+        "name": "Toyota Aygo",
+        "type": "Mini",
+        "brand": "Toyota",
+        "fuelType": "Petrol",
+        "price": 60
+    },
+    {
+        "name": "Volkswagen Up!",
+        "type": "Mini",
+        "brand": "Volkswagen",
+        "fuelType": "Petrol",
+        "price": 50
+    },
+    {
+        "name": "Renault Zoe",
+        "type": "Mini",
+        "brand": "Renault",
+        "fuelType": "Electric",
+        "price": 80
+    },
+    {
+        "name": "Kia Niro",
+        "type": "Mini",
+        "brand": "Kia",
+        "fuelType": "Hybrid",
+        "price": 80
+    },
+    {
+        "name": "Suzuki Vitara",
+        "type": "SUV",
+        "brand": "Suzuki",
+        "fuelType": "Diesel",
+        "price": 150
+    },
+    {
+        "name": "Renault Captur",
+        "type": "SUV",
+        "brand": "Renault",
+        "fuelType": "Diesel",
+        "price": 180
+    },
+    {
+        "name": "Volvo XC60",
+        "type": "SUV",
+        "brand": "Volvo",
+        "fuelType": "Petrol",
+        "price": 120
+    },
+    {
+        "name": "Toyota RAV4",
+        "type": "SUV",
+        "brand": "Toyota",
+        "fuelType": "Hybrid",
+        "price": 160
+    },
+    {
+        "name": "Kia Sportage",
+        "type": "SUV",
+        "brand": "Kia",
+        "fuelType": "Diesel",
+        "price": 120
+    },
+    {
+        "name": "Volkswagen Tiguan",
+        "type": "SUV",
+        "brand": "Volkswagen",
+        "fuelType": "Diesel",
+        "price": 150
+    },
+    {
+        "name": "Toyota C-HR",
+        "type": "SUV",
+        "brand": "Toyota",
+        "fuelType": "Hybrid",
+        "price": 120
+    },
+    {
+        "name": "Hyundai Tucson",
+        "type": "SUV",
+        "brand": "Hyundai",
+        "fuelType": "Petrol",
+        "price": 130
+    },
+    {
+        "name": "Nissan Qashqai",
+        "type": "SUV",
+        "brand": "Nissan",
+        "fuelType": "Petrol",
+        "price": 140
+    },
+    {
+        "name": "Dacia Duster",
+        "type": "SUV",
+        "brand": "Dacia",
+        "fuelType": "Petrol",
+        "price": 100
+    },
+    {
+        "name": "Ford Focus",
+        "type": "Compact",
+        "brand": "Ford",
+        "fuelType": "Diesel",
+        "price": 110
+    },
+    {
+        "name": "Honda Civic",
+        "type": "Compact",
+        "brand": "Honda",
+        "fuelType": "Petrol",
+        "price": 90
+    },
+    {
+        "name": "Volkswagen Golf",
+        "type": "Compact",
+        "brand": "Volkswagen",
+        "fuelType": "Diesel",
+        "price": 120
+    },
+    {
+        "name": "Toyota Corolla",
+        "type": "Compact",
+        "brand": "Toyota",
+        "fuelType": "Hybrid",
+        "price": 100
+    },
+    {
+        "name": "Mazda 3",
+        "type": "Compact",
+        "brand": "Mazda",
+        "fuelType": "Diesel",
+        "price": 150
+    },
+    {
+        "name": "Kia Forte",
+        "type": "Compact",
+        "brand": "Kia",
+        "fuelType": "Electric",
+        "price": 130
+    },
+    {
+        "name": "Hyundai Elantra",
+        "type": "Compact",
+        "brand": "Hyundai",
+        "fuelType": "Petrol",
+        "price": 100
+    },
+    {
+        "name": "Hyundai Veloster",
+        "type": "Compact",
+        "brand": "Hyundai",
+        "fuelType": "Petrol",
+        "price": 110
+    },
+    {
+        "name": "Volkswagen Jetta",
+        "type": "Compact",
+        "brand": "Volkswagen",
+        "fuelType": "Diesel",
+        "price": 130
+    },
+    {
+        "name": "Nissan Sentra",
+        "type": "Compact",
+        "brand": "Nissan",
+        "fuelType": "Petrol",
+        "price": 160
+    }
+]
